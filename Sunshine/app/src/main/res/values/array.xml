@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dailyWheather">
+        <item>Today -Sunny - 88/63</item>
+        <item>Tomorrow -Foggy - 70/46</item>
+        <item>Weds -Cloudy - 72/63</item>
+        <item>Thurs -Rainy - 64/51</item>
+        <item>Fri -Foggy - 70/46</item>
+        <item>Sat -Sunny - 76/68</item>
+    </string-array>
+</resources>
